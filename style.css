@@ -15,6 +15,6 @@ h1 {
   display: inline-block;
   margin: 0 0.5rem;
   color: darkred;
-  animation: animate_bounce; /* referring directly to the animation's @keyframe declaration */
+  animation: animate__bounce; /* referring directly to the animation's @keyframe declaration */
   animation-duration: 5s; /* don't forget to set a duration! */
 }
